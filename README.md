@@ -1,3 +1,4 @@
-# Coursera-Neural-Networks-and-Deep-Learning
-## Deep learning Specialization on Coursera
-### homeworks and etc.
+# Deep learning Specialization on Coursera
+### homeworks
+A self-teaching course
+Instructor: Andrew Ng.
