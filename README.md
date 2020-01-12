@@ -1,2 +1,3 @@
 # Coursera-Neural-Networks-and-Deep-Learning
-All notebook in deep learning Specialization on Coursera
+## Deep learning Specialization on Coursera
+### homeworks and etc.
